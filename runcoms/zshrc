@@ -12,6 +12,8 @@ fi
 
 # Customize to your needs...
 
+eval $(thefuck --alias)
+
 # prompt
 autoload -Uz promptinit
 promptinit
